@@ -1,0 +1,38 @@
+body {
+    font-family: arial, Verdana;
+    background: #000000;
+    color: #ffffff;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 42px;
+    padding: 15px;
+}
+
+h2 {
+    color: #0D0D0D;
+}
+
+p {
+    font-size: 24px;
+    padding-top: 10px;
+    padding-left: 10px;
+
+}
+img {
+    width: 250px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: #ffffff 10px;
+   border-style: dashed;
+}
+
+div {
+    height: 125px;
+    padding: 20px;
+    border:#ffffff 3px;
+    border-style: solid;
+}
